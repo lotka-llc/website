@@ -1,0 +1,11 @@
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-group {padding-right: calc(11px / 2);padding-left: calc(11px / 2);margin-bottom: 10px;}
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-form-fields-wrapper {margin-left: calc(-11px / 2);margin-right: calc(-11px / 2);margin-bottom: -10px;}
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-group.recaptcha_v3-bottomleft, .elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-group.recaptcha_v3-bottomright {margin-bottom: 0;}
+body.rtl .elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-labels-inline .elementor-field-group > label {padding-left: 0px;}
+body:not(.rtl) .elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-labels-inline .elementor-field-group > label {padding-right: 0px;}
+body .elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-labels-above .elementor-field-group > label {padding-bottom: 0px;}
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-group > label, .elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-subgroup label {color: #000;}
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-type-html {padding-bottom: 0px;color: #000;}
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-group .elementor-field {color: #000;}
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {background-color: #fff;}
+.elementor-423 .elementor-element.elementor-element-6c15ae6 .elementor-field-group .elementor-select-wrapper select {background-color: #fff;}
